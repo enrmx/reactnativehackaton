@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994196412313",
+    "project_id": "rnhackton",
+    "storage_bucket": "rnhackton.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994196412313:android:a778d426370eafe5d06508",
+        "android_client_info": {
+          "package_name": "com.enrique.rnhack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUO-D7Aq17a6oHB6M2raERgwE3S_kxiM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
